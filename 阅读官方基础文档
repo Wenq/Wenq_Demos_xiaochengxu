@@ -3,9 +3,12 @@ https://developers.weixin.qq.com/miniprogram/dev/quickstart/basic/getting-starte
 
 /*
   20180630:
-  1. 注册小程序开发账号(得到AppId)->官方有后台提供非开发人员管理自己的小程序->下载小程序开发工具-开发自己的小程序。
+  基础：
+  1. 起步：
+     注册小程序开发账号(得到AppId)->官方有后台提供非开发人员管理自己的小程序->下载小程序开发工具-开发自己的小程序。
   
-  2. 通过quickStart创建的小程序，包含一些文件如下： 
+  2. 代码构成：
+     通过quickStart创建的小程序，包含一些文件如下： 
      app.json: 小程序配置文件，包括了小程序的所有页面路径、界面表现、网络超时时间、底部 tab 等；
      project.config.json: 开发工具配置文件；
      page.json：单个页面配置信息；
@@ -13,5 +16,6 @@ https://developers.weixin.qq.com/miniprogram/dev/quickstart/basic/getting-starte
      WXSS 样式：WXSS 具有 CSS 大部分的特性，小程序在 WXSS 也做了一些扩充和修改；
      JS 交互逻辑：和用户做交互：响应用户的点击、获取用户的位置等等。还可以在 JS 中调用小程序提供的丰富的 API，利用这些 API 可以很方便的调起微信提供的能力，例如获取用户信息、本地存储、微信支付等；
      
-     3.
+  3. 小程序能力
+      
  */
